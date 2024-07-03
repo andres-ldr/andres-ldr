@@ -1,7 +1,7 @@
 # Welcome ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <div style="height: 150px; background-color:red;">
-  <img src="./banner1.png" alt="banner" style="width:100%; height: 100%; object-fit: cover;"/>
+  <img src="./linkedin_banner.png" alt="banner" style="width:100%; height: 100%; object-fit: cover;"/>
 </div>
 
 ## About me
