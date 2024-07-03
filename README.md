@@ -1,6 +1,6 @@
 # Welcome ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-<div style="height: 150px; background-color:red;">
+<div style="">
   <img src="./linkedin_banner.png" alt="banner" style="width:100%; height: 100%; object-fit: cover;"/>
 </div>
 
@@ -11,13 +11,13 @@ Highly motivated and adaptable software developer with 1 year of hands-on experi
 - 🌍  I'm based in Vancouver, Canada
 - 🖥️  See my portfolio at [www.andrestechsolutions.com](http://www.andrestechsolutions.com)
 - ✉️  You can contact me at [lopez.andresrigoberto@gmail.com](mailto:lopez.andresrigoberto@gmail.com)
-- 🚀  I'm currently working on [eEpic Events](http://www.eepic.ca)
-- 🧠  I'm learning Django, Net Core, AWS and more
+- 🚀  I'm currently working at [Dignidad Migrante Society](https://www.linkedin.com/company/dignidad-migrante-society/)
+- 🧠  I'm learning AWS
 - 🤝  I'm open to collaborating on Full stack web and data science projects
 
 ### 🛠 Skills
 
-**Languages:** &nbsp; 
+**Languages:** &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
@@ -42,12 +42,12 @@ Highly motivated and adaptable software developer with 1 year of hands-on experi
 
 **Devops:** &nbsp;
 ![Static Badge](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+
 <!-- ![Static Badge](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
 
 **Database managment:** &nbsp;
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Static Badge](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=%2347A248)&nbsp;
-
 
 **Q&A and Testing:** &nbsp;
 ![Static Badge](https://img.shields.io/badge/Vitest-05122A?style=flat&logo=vitest)&nbsp;
@@ -62,10 +62,6 @@ Highly motivated and adaptable software developer with 1 year of hands-on experi
 
 **Others:**&nbsp;
 ![Static Badge](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=%23E10098)&nbsp;
- 
-
-
-
 
 <!-- ![Static Badge](https://img.shields.io/badge/Rabbit_MQ-05122A?style=flat&logo=rabbitmq)&nbsp; -->
 <!-- ![Static Badge](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx&logoColor=%23009639) -->
