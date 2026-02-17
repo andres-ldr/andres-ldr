@@ -1,74 +1,21 @@
-# Welcome ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hi there, I am Andrés 👋
 
-<div style="">
-  <img src="./linkedin_banner.png" alt="banner" style="width:100%; height: 100%; object-fit: cover;"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-ldr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lopez.andresrigoberto@gmail.com)
 
-## About me
+Software engineer and Microsoft 365 consultant at [Inside View Global](https://insideviewglobal.com)
 
-Highly motivated and adaptable software developer with 1 year of hands-on experience in designing and maintaining mobile and web applications. Proficient in utilizing atomic design methodology and test-driven development for streamlined development and optimal performance. Pursuing a diploma in Web Development and a Bachelor in Data Science to further expand skills and knowledge in the field. Committed to building visually appealing websites and highly performant applications that meet client needs while enhancing the user experience. Demonstrated problem-solving skills and a desire to work collaboratively to achieve team success.
+I help businesses build fast, reliable, and user‑friendly web applications by combining software engineering expertise with strong problem‑solving skills.
 
-- 🌍  I'm based in Vancouver, Canada
-- 🖥️  See my portfolio at [www.andrestechsolutions.com](http://www.andrestechsolutions.com)
-- ✉️  You can contact me at [lopez.andresrigoberto@gmail.com](mailto:lopez.andresrigoberto@gmail.com)
-- 🚀  I'm currently working at [Dignidad Migrante Society](https://www.linkedin.com/company/dignidad-migrante-society/)
-- 🧠  I'm learning AWS
-- 🤝  I'm open to collaborating on Full stack web and data science projects
+With 3+ years of experience, I specialize in improving system performance, optimizing user experiences, and automating workflows
 
-### 🛠 Skills
+🌱 I’m currently learning ML and cloud engineering
 
-**Languages:** &nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Static Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&logoColor=%23512BD4)&nbsp;
+## Learning projects
 
-**Frontend:** &nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Static Badge](https://img.shields.io/badge/Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) &nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Static Badge](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
+[Real-time communication app](https://github.com/andres-ldr/chat-app): A full‑stack messaging app with secure authentication, real‑time chat, and video calls, built with React, Node.js, Express, and PostgreSQL.
 
-**Backend:** &nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Static Badge](https://img.shields.io/badge/Express.js-05122A?style=flat&logo=express)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Static Badge](https://img.shields.io/badge/.Net-05122A?style=flat&logo=dotnet)&nbsp;
+[Auctions platform](https://github.com/andres-ldr/carsties): A microservices‑based auction platform with user management, search capabilities, and resilient communication, built with ASP.NET Core, RabbitMQ, PostgreSQL, and Next.js.
 
-**Cloud:** &nbsp;
-![Static Badge](https://img.shields.io/badge/Amazon_%20EC2-05122A?style=flat&logo=amazonec2)&nbsp;
+## Toolbox
 
-**Devops:** &nbsp;
-![Static Badge](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
-
-<!-- ![Static Badge](https://img.shields.io/badge/Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp; -->
-
-**Database managment:** &nbsp;
-![Static Badge](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Static Badge](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&logoColor=%2347A248)&nbsp;
-
-**Q&A and Testing:** &nbsp;
-![Static Badge](https://img.shields.io/badge/Vitest-05122A?style=flat&logo=vitest)&nbsp;
-![Static Badge](https://img.shields.io/badge/Jest-05122A?style=flat&logo=jest)&nbsp;
-
-**Workflow:** &nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-**Systems:**&nbsp;
-![Static Badge](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnubash)
-&nbsp;
-
-**Others:**&nbsp;
-![Static Badge](https://img.shields.io/badge/GraphQL-05122A?style=flat&logo=graphql&logoColor=%23E10098)&nbsp;
-
-<!-- ![Static Badge](https://img.shields.io/badge/Rabbit_MQ-05122A?style=flat&logo=rabbitmq)&nbsp; -->
-<!-- ![Static Badge](https://img.shields.io/badge/Nginx-05122A?style=flat&logo=nginx&logoColor=%23009639) -->
-
-### &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/andr%C3%A9s-l%C3%B3pez-2b53b020b/"><img src="https://img.shields.io/badge/-Andrés_Lopez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lopez.andresrigoberto@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
